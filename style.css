@@ -50,6 +50,7 @@ li {
     margin: 0 !important;
     padding: 10px;
     list-style: none;
+    width: 95%;
 }
 
 .material-icons {
